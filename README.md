@@ -2,7 +2,7 @@
 
 [Mermaid.js](https://mermaid-js.github.io/mermaid/#/)
 is a javascript framework that detects Markdown code-blocks annoted with "`mermaid`"
-as the language and renders them as flow-charts, graphs, gantt charts, or other diagrams.
+and renders them as flow-charts, graphs, gantt charts, or other diagrams.
 
 ## Flowcharts
 
@@ -77,7 +77,7 @@ Render as:
 
 ## Graphs
 
-Here's a Graph of popular into CS classes in at a random CS school in the US.
+Here's a depednency graph of popular CS classes at a random school in the US.
 
 <!-- Not rendered -->
 ```text
