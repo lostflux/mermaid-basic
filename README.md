@@ -77,7 +77,7 @@ Render as:
 
 ## Graphs
 
-Here's a depednency graph of popular CS classes at a random school in the US.
+Here's a dependency graph of popular CS classes at a random school in the US.
 
 <!-- Not rendered -->
 ```text
