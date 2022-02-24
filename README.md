@@ -148,5 +148,5 @@ Here's a dependency graph of popular CS classes at a random school in the US.
 
 That's it!
 
-If you use [vscode](https://code.visualstudio.com/), you can need the [Mermaid extension](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid) to render in your local editor.
-GitHub supports Mermaid natively, so once your push your code to GitHub the diagrams will be visible.
+If you use [vscode](https://code.visualstudio.com/), you need the [Mermaid extension](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid) to render in your local editor.
+GitHub supports Mermaid natively, so once you push your code to GitHub the diagrams will be visible.
